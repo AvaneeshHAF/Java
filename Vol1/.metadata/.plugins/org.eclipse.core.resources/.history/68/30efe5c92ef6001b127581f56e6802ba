@@ -1,0 +1,13 @@
+package javapackage;
+
+public class Lesson19 {
+
+	public static void main(String[] args) {
+		double num1 = 74.33;
+		
+		float num2 = 76.53943834534985F;
+		
+		System.out.print(num2);
+	}
+
+}

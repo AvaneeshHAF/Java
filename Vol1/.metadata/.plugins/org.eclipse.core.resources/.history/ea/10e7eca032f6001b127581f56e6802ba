@@ -1,0 +1,14 @@
+package javapackage;
+
+public class Lesson20 {
+
+	public static void main(String[] args) {
+		char character;
+		
+		character = 'A';
+		
+		System.out.println(character);
+
+	}
+
+}

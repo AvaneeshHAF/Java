@@ -1,0 +1,30 @@
+package javapackage;
+
+public class Lesson21prac {
+
+	public static void main(String[] args) {
+		boolean bool;
+		
+		bool = true;
+		
+		if(bool==true) {
+			System.out.println("The value of the variable is " + bool);
+			System.out.println("The value of the variable is " + bool);
+			System.out.println("The value of the variable is " + bool);
+			System.out.println("The value of the variable is " + bool);
+		}
+		if(bool==false) {
+			System.out.println("The value of the variable is " + bool);
+			System.out.println("The value of the variable is " + bool);
+			System.out.println("The value of the variable is " + bool);
+			System.out.println("The value of the variable is " + bool);
+
+			
+			}
+
+			
+		
+		
+		}
+
+	}

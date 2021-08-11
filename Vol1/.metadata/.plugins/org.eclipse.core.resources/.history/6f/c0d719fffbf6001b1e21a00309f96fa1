@@ -1,0 +1,14 @@
+package javapackage;
+
+public class Lesson21 {
+
+	public static void main(String[] args) {
+		boolean var;
+		
+		var = false;
+		
+		System.out.println("The Value of Var us equal to: " + var);
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package javapackage;
+
+public class Lesson20 {
+
+	public static void main(String[] args) {
+		char character;
+		int i; 
+		
+		
+		for(i = 30; i <= 150; i++) {
+			character = (char) i;
+			System.out.println("Code: " + i + "Corresponds to: " + character);
+		}
+		
+
+	}
+
+}
